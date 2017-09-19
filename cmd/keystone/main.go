@@ -12,7 +12,7 @@ import (
 	"github.com/iopred/bruxism/inviteplugin"
 	"github.com/iopred/bruxism/playingplugin"
 	"github.com/iopred/bruxism/statsplugin"
-	"github.com/iopred/keystone/keystoneplugin"
+	"github.com/sethryder/keystone/keystoneplugin"
 )
 
 var discordToken string
